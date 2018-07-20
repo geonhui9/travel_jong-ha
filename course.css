@@ -1,9 +1,9 @@
-body{font-size:13px;line-height:200%}
+body{font-size:13px;line-height:300%}
 #header{width:100%;float:left;background:skyblue;display:block}
-#header a{text-align:center;font-size:2rem;color:white;width:100%;float:left;padding-top:30px}
-#header h1{text-align:center;font-size:2.5rem;float:left;width:100%;padding-top:20px;color:green}
+#header a{text-align:center;font-size:2rem;color:white;width:100%;float:left;margin:15px 0px 0px 0px}
+#header h1{text-align:center;font-size:2.5rem;float:left;width:100%;margin:20px 0px 20px 0px;color:green}
 
-.time{font-weight:bold;color:hotpink}
+.time{font-weight:bold;color:hotpink;margin-top:20px}
 #content{width:100%;display:block;float:left}
  #firstday{text-align:center;position:relative;top:30px;background:antiquewhite}
  #seconday{text-align:center;position:relative;top:60px;background:navajowhite}
@@ -17,8 +17,13 @@ body{font-size:13px;line-height:200%}
 
 
 @media screen and (min-width:900px){
- body{font-size:20px;line-height:300%} 
+ body{font-size:20px} 
  #header a{font-size:2em}
  #header h1{font-size:2.7em}
 }
  
+
+
+@media screen and (max-width:400px){
+
+}
