@@ -26,7 +26,7 @@ footer #hp{text-align:right;width:100%;float:right;margin-top:10px}
 
 @media screen and (max-width:600px){
 #home{font-size:3em}
-.list{font-size:1.7em}
+.list{font-size:1.5em}
 }
 
 @media screen and (max-width:450px){
