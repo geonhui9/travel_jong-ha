@@ -29,12 +29,12 @@ footer #hp{text-align:right;width:100%;float:right;margin-top:10px}
 
 @media screen and (max-width:600px){
 #home{font-size:3em}
-.list{font-size:1.5em}
+.list{font-size:1.4em}
 }
 
 @media screen and (max-width:450px){
 #tag{font-size:1.1em; margin-top:10px}
-  #content{font-size:15px}  
+  #content{font-size:13px}  
 }
 
 
