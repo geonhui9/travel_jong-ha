@@ -14,7 +14,7 @@ header ul{float:left; width:100%; margin:30px 0px}
 .section{margin:30px 0px}
 .section p{margin-top:15px}
 
-#bgimg{width:100%;background:url('https://c11.kr/2r7i');background-size:cover}
+#bgimg{width:100%;background:url('https://c11.kr/2r7j');background-size:cover}
 
 footer{width:100%;float:left;border-top:1px solid skyblue;background:antiquewhite}
 #ref{float:left}
@@ -34,6 +34,7 @@ footer #hp{text-align:right;width:100%;float:right;margin-top:10px}
 
 @media screen and (max-width:450px){
 #tag{font-size:1.1em; margin-top:10px}
+  #content{font-size:15px}  
 }
 
 
